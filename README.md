@@ -87,3 +87,9 @@ public class HospitalEmployeeTest {
         receptionist.provideService();
     }
 }
+Doctor D001 specializes in Cardiology
+Nurse N001 has patients
+Cleaner C001 is sweeping
+Receptionist R001 is attending to patients
+
+Process finished with exit code 0
